@@ -1,0 +1,16 @@
+C:\Users\trist\OneDrive\Desktop\C2_Algorithms\C2_Algorithms\obj\Debug\C2_Algorithms.csproj.AssemblyReference.cache
+C:\Users\trist\OneDrive\Desktop\C2_Algorithms\C2_Algorithms\obj\Debug\C2_Algorithms.csproj.SuggestedBindingRedirects.cache
+C:\Users\trist\OneDrive\Desktop\C2_Algorithms\C2_Algorithms\obj\Debug\C2_Algorithms.csproj.CoreCompileInputs.cache
+C:\Users\trist\OneDrive\Desktop\C2_Algorithms\C2_Algorithms\bin\Debug\C2_Algorithms.exe.config
+C:\Users\trist\OneDrive\Desktop\C2_Algorithms\C2_Algorithms\bin\Debug\C2_Algorithms.exe
+C:\Users\trist\OneDrive\Desktop\C2_Algorithms\C2_Algorithms\bin\Debug\C2_Algorithms.pdb
+C:\Users\trist\OneDrive\Desktop\C2_Algorithms\C2_Algorithms\obj\Debug\C2_Algorithms.exe
+C:\Users\trist\OneDrive\Desktop\C2_Algorithms\C2_Algorithms\obj\Debug\C2_Algorithms.pdb
+C:\Users\trist\Downloads\DoublyLinked-CSharp-main\DoublyLinked-CSharp-main\C2_Algorithms\C2_Algorithms\bin\Debug\C2_Algorithms.exe.config
+C:\Users\trist\Downloads\DoublyLinked-CSharp-main\DoublyLinked-CSharp-main\C2_Algorithms\C2_Algorithms\bin\Debug\C2_Algorithms.exe
+C:\Users\trist\Downloads\DoublyLinked-CSharp-main\DoublyLinked-CSharp-main\C2_Algorithms\C2_Algorithms\bin\Debug\C2_Algorithms.pdb
+C:\Users\trist\Downloads\DoublyLinked-CSharp-main\DoublyLinked-CSharp-main\C2_Algorithms\C2_Algorithms\obj\Debug\C2_Algorithms.csproj.AssemblyReference.cache
+C:\Users\trist\Downloads\DoublyLinked-CSharp-main\DoublyLinked-CSharp-main\C2_Algorithms\C2_Algorithms\obj\Debug\C2_Algorithms.csproj.SuggestedBindingRedirects.cache
+C:\Users\trist\Downloads\DoublyLinked-CSharp-main\DoublyLinked-CSharp-main\C2_Algorithms\C2_Algorithms\obj\Debug\C2_Algorithms.csproj.CoreCompileInputs.cache
+C:\Users\trist\Downloads\DoublyLinked-CSharp-main\DoublyLinked-CSharp-main\C2_Algorithms\C2_Algorithms\obj\Debug\C2_Algorithms.exe
+C:\Users\trist\Downloads\DoublyLinked-CSharp-main\DoublyLinked-CSharp-main\C2_Algorithms\C2_Algorithms\obj\Debug\C2_Algorithms.pdb
